@@ -1,0 +1,778 @@
+[
+    {
+        "timestamp": "2024-01-26 22:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-26 18:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-26 14:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-26 11:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-26 07:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-26 03:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-25 23:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-25 20:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-25 16:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-25 12:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-25 08:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-25 05:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-25 01:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-24 21:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-24 17:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-24 14:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-24 10:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-24 06:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-24 02:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-23 23:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-30 01:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-29 21:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-29 17:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-29 14:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-29 10:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-29 06:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-29 02:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-01-28 23:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-02 22:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-02 18:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-02 14:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-02 11:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-02 07:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-02 03:30:00",
+        "type": "buy",
+        "currency_pair": "BTC-USD",
+        "amount": 0.014989840635509281,
+        "price_per_coin": 66711.85,
+        "total_price": 999.9999999999999,
+        "fees": 4.999999999999999,
+        "predicted_sell_price": 69691.0234375
+    },
+    {
+        "timestamp": "2024-04-01 23:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-01 20:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-01 16:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-07 18:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-07 14:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-07 11:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-07 07:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-07 03:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-06 23:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-06 20:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-06 16:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-06 12:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-06 08:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-06 05:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-06 01:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-05 21:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-05 17:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-05 14:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-05 10:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-05 06:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-05 02:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-04 23:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-04 19:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-10 21:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-10 17:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-10 14:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-10 10:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-10 06:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-10 02:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-09 23:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-09 19:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-09 15:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-09 11:45:00",
+        "type": "sell",
+        "currency_pair": "BTC-USD",
+        "amount": 0.014989840635509281,
+        "price_per_coin": 70794.18,
+        "total_price": 1061.1934761215584,
+        "fees": 5.305967380607792,
+        "gain_loss": 55.88750874095062
+    },
+    {
+        "timestamp": "2024-04-09 08:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-09 04:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-09 00:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-08 20:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-08 17:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-08 13:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-08 09:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-08 05:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-08 02:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-07 22:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-14 00:30:00",
+        "type": "buy",
+        "currency_pair": "BTC-USD",
+        "amount": 0.016451814788624643,
+        "price_per_coin": 64180.61,
+        "total_price": 1055.8875087409506,
+        "fees": 5.279437543704753,
+        "predicted_sell_price": 64918.12109375
+    },
+    {
+        "timestamp": "2024-04-13 20:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-13 17:00:00",
+        "type": "sell",
+        "currency_pair": "BTC-USD",
+        "amount": 0.016451814788624643,
+        "price_per_coin": 67066.59,
+        "total_price": 1103.3671171846256,
+        "fees": 5.516835585923128,
+        "gain_loss": 41.96277285775176
+    },
+    {
+        "timestamp": "2024-04-13 13:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-13 09:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-13 05:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-13 02:00:00",
+        "type": "buy",
+        "currency_pair": "BTC-USD",
+        "amount": 0.016525074750768528,
+        "price_per_coin": 66435.42,
+        "total_price": 1097.8502815987024,
+        "fees": 5.489251407993512,
+        "predicted_sell_price": 67129.453125
+    },
+    {
+        "timestamp": "2024-04-12 22:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-12 18:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-04-12 14:45:00",
+        "type": "sell",
+        "currency_pair": "BTC-USD",
+        "amount": 0.016525074750768528,
+        "price_per_coin": 69205.21,
+        "total_price": 1143.6212683926337,
+        "fees": 5.718106341963169,
+        "gain_loss": 40.05288045196812
+    },
+    {
+        "timestamp": "2024-04-12 11:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-12 07:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-12 03:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-11 23:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-11 20:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-11 16:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-11 12:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-11 08:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-04-11 05:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-11 20:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-11 16:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-17 18:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-17 15:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-17 11:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-17 07:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-17 03:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-17 00:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-16 20:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-16 16:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-16 12:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-16 09:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-16 05:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-16 01:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-15 21:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-15 18:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-15 14:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-15 10:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-15 06:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-15 03:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-14 23:15:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-14 19:30:00",
+        "type": "buy",
+        "currency_pair": "BTC-USD",
+        "amount": 0.019384965447268337,
+        "price_per_coin": 51586.37,
+        "total_price": 1000.0,
+        "fees": 5.0,
+        "predicted_sell_price": 52244.41796875
+    },
+    {
+        "timestamp": "2024-02-20 21:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-02-20 18:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for selling"
+    },
+    {
+        "timestamp": "2024-02-20 14:15:00",
+        "type": "sell",
+        "currency_pair": "BTC-USD",
+        "amount": 0.019384965447268337,
+        "price_per_coin": 52300.0,
+        "total_price": 1013.8336928921341,
+        "fees": 5.06916846446067,
+        "gain_loss": 8.764524427673383
+    },
+    {
+        "timestamp": "2024-02-20 10:30:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-20 06:45:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    },
+    {
+        "timestamp": "2024-02-20 03:00:00",
+        "type": "hold",
+        "currency_pair": "BTC-USD",
+        "reason": "Unfavorable conditions for buying"
+    }
+]
